@@ -2,7 +2,6 @@
 
 	namespace myApp\Controllers;
 
-	use LittleMvc\Application\Debug as pd;
 	use LittleMvc\Controller\LittleController;
 	use LittleMvc\Http\Response\JSONResponse;
 

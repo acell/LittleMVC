@@ -4,8 +4,6 @@
 	use LittleMvc\Http\Request\Request;
 	use LittleMvc\Http\Request\Router;
 	use LittleMvc\Controller\ControllerLoader;
-
-	use LittleMvc\Application\Debug as pd;
 	
 	class LittleMvc{
 		private $bootstrap,

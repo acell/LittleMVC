@@ -1,8 +1,6 @@
 <?php
 	namespace LittleMvc\Controller;
 
-	use LittleMvc\Application\Debug as pd;
-
 	class ControllerLoader
 	{
 		
